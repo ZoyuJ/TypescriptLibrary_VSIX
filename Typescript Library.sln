@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31019.35
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TypescriptLibraryVSIX", "TypescriptLibraryVSIX\TypescriptLibraryVSIX.csproj", "{EA4C9940-5C91-4AC7-A875-BDD223918BDD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TypescriptLibrary", "TypescriptLibrary\TypescriptLibrary.csproj", "{64D1D05E-66E7-4B5E-ADB6-CED65B4EFC50}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EA4C9940-5C91-4AC7-A875-BDD223918BDD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EA4C9940-5C91-4AC7-A875-BDD223918BDD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EA4C9940-5C91-4AC7-A875-BDD223918BDD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EA4C9940-5C91-4AC7-A875-BDD223918BDD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{64D1D05E-66E7-4B5E-ADB6-CED65B4EFC50}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{64D1D05E-66E7-4B5E-ADB6-CED65B4EFC50}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{64D1D05E-66E7-4B5E-ADB6-CED65B4EFC50}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{64D1D05E-66E7-4B5E-ADB6-CED65B4EFC50}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {126685E9-0F4F-4B0A-9280-48CCA9CF69F9}
+	EndGlobalSection
+EndGlobal

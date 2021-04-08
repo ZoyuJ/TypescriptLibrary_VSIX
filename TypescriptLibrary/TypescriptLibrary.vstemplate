@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<VSTemplate Version="2.0.0" Type="Project" xmlns="http://schemas.microsoft.com/developer/vstemplate/2005" xmlns:sdk="http://schemas.microsoft.com/developer/vstemplate-sdkextension/2010">
+  <TemplateData>
+    <Name>Blank Typescript Library</Name>
+    <Description>Blank Typescript Library</Description>
+    <Icon>TypescriptLibrary.ico</Icon>
+    <ProjectType>TypeScript</ProjectType>
+    <ProjectTypeTag>Library</ProjectTypeTag>
+    <LanguageTag>Typescript</LanguageTag>
+    <SortOrder>1000</SortOrder>
+    <TemplateID>97b5d13e-4ff6-4133-afb1-5645826903e3</TemplateID>
+    <CreateNewFolder>true</CreateNewFolder>
+    <DefaultName>TypescriptLibrary</DefaultName>
+    <ProvideDefaultName>false</ProvideDefaultName>
+  </TemplateData>
+  <TemplateContent>
+    <Project File="ProjectTemplate.njsproj" ReplaceParameters="true">
+      <ProjectItem ReplaceParameters="true" OpenInEditor="false">Index.ts</ProjectItem>
+      <ProjectItem ReplaceParameters="true" OpenInEditor="true">package.json</ProjectItem>
+      <ProjectItem ReplaceParameters="true" OpenInEditor="true">tsconfig.json</ProjectItem>
+
+    </Project>
+  </TemplateContent>
+</VSTemplate>
