@@ -8,7 +8,9 @@
     "sourceMap": true,
     "target": "es5",
     "lib": [ "ES2015" ],
-    "outDir": "./bin"
+    "outDir": "./bin",
+    "declarationDir": "./lib/declaration",
+    "mapRoot": "/"
   },
   "exclude": [
     "node_modules",
