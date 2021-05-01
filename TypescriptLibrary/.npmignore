@@ -1,0 +1,9 @@
+/lib
+/obj
+_*.*
+*.njsproj
+*.njsproj*
+*.njsproj.*
+*.zip
+*.tar
+*.tgz

@@ -7,7 +7,7 @@
     "name": ""
   },
   "files": [
-    "./lib/*"
+    "./bin/*"
   ],
   "scripts": {
     "build": "tsc --build",

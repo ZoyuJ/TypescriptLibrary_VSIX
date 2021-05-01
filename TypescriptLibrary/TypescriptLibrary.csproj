@@ -57,6 +57,7 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
+    <None Include=".npmignore" />
     <None Include="package.json" />
     <None Include="ProjectTemplate.njsproj" />
     <None Include="tsconfig.json" />
