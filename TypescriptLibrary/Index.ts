@@ -1,3 +1,5 @@
-﻿export default class $safeprojectname$ {
-  constructor() { }
+﻿namespace $safeprojectname$ {
+  export class Class1{
+   constructor() { }
+  }
 }
